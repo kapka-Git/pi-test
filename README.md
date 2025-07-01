@@ -1,2 +1,2 @@
-# pi-test
+# pi test
 my first cpp project
